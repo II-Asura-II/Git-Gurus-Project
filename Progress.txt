@@ -1,0 +1,1 @@
+So far ive learnt how to create a repository and clone it locally and how to create branches and merge them.
